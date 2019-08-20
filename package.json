@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "archieml": "^0.3.1"
+    "archieml": "^0.4.2"
   },
   "repository": {
     "type": "git",
